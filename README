@@ -1,0 +1,6 @@
+This is a program that I wrote for an assignment in school.
+
+I thought the idea was actually really cool so I decided to upload it to github, and actually clean it up and eventually continue to develop the program.
+
+The program right now is pretty bare bones, right now all it does is translate text encoded in morse, baudot code, and utf-32 to any of those encodings.
+
